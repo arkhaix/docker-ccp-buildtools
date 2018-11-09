@@ -1,6 +1,6 @@
 # escape=`
 
-FROM arkhaix/ccp-base
+FROM microsoft/windowsservercore:1803
 
 # Set up environment to collect install errors.
 # COPY Install.cmd C:\TEMP\
